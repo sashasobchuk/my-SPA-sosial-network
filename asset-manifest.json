@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/my-SPA-sosial-network/static/css/main.f205240d.chunk.css",
+    "main.js": "/my-SPA-sosial-network/static/js/main.73d2dcc1.chunk.js",
+    "main.js.map": "/my-SPA-sosial-network/static/js/main.73d2dcc1.chunk.js.map",
+    "runtime-main.js": "/my-SPA-sosial-network/static/js/runtime-main.2424db15.js",
+    "runtime-main.js.map": "/my-SPA-sosial-network/static/js/runtime-main.2424db15.js.map",
+    "static/js/2.ac7831a2.chunk.js": "/my-SPA-sosial-network/static/js/2.ac7831a2.chunk.js",
+    "static/js/2.ac7831a2.chunk.js.map": "/my-SPA-sosial-network/static/js/2.ac7831a2.chunk.js.map",
+    "static/css/3.debd887c.chunk.css": "/my-SPA-sosial-network/static/css/3.debd887c.chunk.css",
+    "static/js/3.ce75ca5a.chunk.js": "/my-SPA-sosial-network/static/js/3.ce75ca5a.chunk.js",
+    "static/js/3.ce75ca5a.chunk.js.map": "/my-SPA-sosial-network/static/js/3.ce75ca5a.chunk.js.map",
+    "static/css/4.1bbbac5c.chunk.css": "/my-SPA-sosial-network/static/css/4.1bbbac5c.chunk.css",
+    "static/js/4.d28ab25c.chunk.js": "/my-SPA-sosial-network/static/js/4.d28ab25c.chunk.js",
+    "static/js/4.d28ab25c.chunk.js.map": "/my-SPA-sosial-network/static/js/4.d28ab25c.chunk.js.map",
+    "static/css/5.7a40a09a.chunk.css": "/my-SPA-sosial-network/static/css/5.7a40a09a.chunk.css",
+    "static/js/5.bfc35bee.chunk.js": "/my-SPA-sosial-network/static/js/5.bfc35bee.chunk.js",
+    "static/js/5.bfc35bee.chunk.js.map": "/my-SPA-sosial-network/static/js/5.bfc35bee.chunk.js.map",
+    "index.html": "/my-SPA-sosial-network/index.html",
+    "static/css/3.debd887c.chunk.css.map": "/my-SPA-sosial-network/static/css/3.debd887c.chunk.css.map",
+    "static/css/4.1bbbac5c.chunk.css.map": "/my-SPA-sosial-network/static/css/4.1bbbac5c.chunk.css.map",
+    "static/css/5.7a40a09a.chunk.css.map": "/my-SPA-sosial-network/static/css/5.7a40a09a.chunk.css.map",
+    "static/css/main.f205240d.chunk.css.map": "/my-SPA-sosial-network/static/css/main.f205240d.chunk.css.map",
+    "static/js/2.ac7831a2.chunk.js.LICENSE.txt": "/my-SPA-sosial-network/static/js/2.ac7831a2.chunk.js.LICENSE.txt",
+    "static/media/1.24a9907f.jpg": "/my-SPA-sosial-network/static/media/1.24a9907f.jpg",
+    "static/media/3.a47ffbc4.jpg": "/my-SPA-sosial-network/static/media/3.a47ffbc4.jpg",
+    "static/media/6.4de606ff.jpg": "/my-SPA-sosial-network/static/media/6.4de606ff.jpg",
+    "static/media/7.ff7c1b34.jpg": "/my-SPA-sosial-network/static/media/7.ff7c1b34.jpg",
+    "static/media/8.5fce5f19.jpg": "/my-SPA-sosial-network/static/media/8.5fce5f19.jpg",
+    "static/media/Loader.c3a77e62.gif": "/my-SPA-sosial-network/static/media/Loader.c3a77e62.gif",
+    "static/media/fanyLogo.f9a4c894.png": "/my-SPA-sosial-network/static/media/fanyLogo.f9a4c894.png",
+    "static/media/norwey.fd4e9c23.jpg": "/my-SPA-sosial-network/static/media/norwey.fd4e9c23.jpg",
+    "static/media/standatr_foto_ForAva.png": "/my-SPA-sosial-network/static/media/standatr_foto_ForAva.90c99cec.png",
+    "static/media/Noga.module.css": "/my-SPA-sosial-network/static/media/пано2.2a76454e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2424db15.js",
+    "static/js/2.ac7831a2.chunk.js",
+    "static/css/main.f205240d.chunk.css",
+    "static/js/main.73d2dcc1.chunk.js"
+  ]
+}
